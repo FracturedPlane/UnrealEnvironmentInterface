@@ -1,0 +1,1 @@
+write(attack([type, state_change], [target, glen], [method, agressive]))
